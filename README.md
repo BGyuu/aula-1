@@ -1,4 +1,4 @@
 Alunos: 
 Bruno Gualberto
-Daneilo Gouvêa
+Danilo Gouvêa
 João Luís
